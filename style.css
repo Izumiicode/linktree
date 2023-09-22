@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #191931;
+  color: white;
+  font-family: "Outfit", sans-serif; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 2rem;
+  gap: 1rem;
+  text-align: center;
+}
+
+.poto-profile {
+  width: 6rem;
+  border-radius: 50%;
+}
